@@ -3,7 +3,7 @@ Bài viết này sẽ chia sẻ đến bạn một số review về Ngư Quán, 
 
 Bạn đã chán với các món ăn thông thường và muốn sắm 1 nhà hàng lạ lạ để đổi gió cuối tuần cùng gia đình? Vậy thì Ngư quán vững chắc sẽ là 1 tuyển lựa mà bạn nên cân nhắc đấy. Cùng tham khảo bài review dưới đây để xem nhà hàng này mang gì đặc thù nhé!
 
-<h2>**Giới thiệu về Ngư Quán**</h2>
+<h2>Giới thiệu về Ngư Quán</h2>
 
 với tuổi đời trong khoảng hơi lâu (hơn 10 năm) Ngư Quán nổi tiếng bởi các đặc sản cá sông đa dạng, ngon và lạ nhất.
 
@@ -11,7 +11,7 @@ Quán này tọa lạc đối diện cổng phụ công viên Cầu Giấy. Nhà
 
 bên cạnh đó vì là cửa hàng cá sông nên khách ăn ở đây không nhiều bạn teen, cốt yếu là những lực lượng trung niên.
 
-<h2>**Review đồ ăn tại Ngư Quán**</h2>
+<h2>Review đồ ăn tại Ngư Quán</h2>
 
 Ở phần trên mình đã chia sẻ tới bạn một số ấn tượng về không gian và địa điểm của Ngư Quán. Ở phần này là một số review của mình về đồ ăn tại Ngư Quán:
 
@@ -30,3 +30,5 @@ nhà sản xuất tại Ngư Quán thì mình Đánh giá là khá ổn, tuy kho
 Còn về thái độ viên chức thì tương đối hết lòng, vào cửa đã có người chào, dẫn và xếp ngồi vào bàn thích hợp theo lực lượng người. Sau đó nhân viên sẽ đến bàn hoặc khách sẽ tự đến quầy để chọn cá và các món ăn đều được.
 
 Trên đây là 1 số review của mình về Ngư Quán Cầu Giấy, 1 trong những quán cá sông có tuổi đời lâu nhất tại Hà Nội. Kỳ vọng những review của mình là có ích.
+
+Xem thêm: https://github.com/huyenbt238/koh-yam
